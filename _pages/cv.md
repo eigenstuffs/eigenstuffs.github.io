@@ -21,9 +21,8 @@ Education
 Work experience
 ======
 * **Jan. 2024 - Present:** Research Assistant
-	* University of California, Los Angeles (UCLA)
-    * Supervisors: Cesi Cruz, Jose Gloria, Paul Bahk
-    * Duties includes: Spatial data analysis, literature review, formal modeling
+    * Cesi Cruz, Jose Gloria, Paul Bahk (UCLA Department of Political Science)
+    * Conducting spatial data analysis, literature review, formal modeling
 
 * **Sept. 2023 - Present:** Vice Chair
 	* UCLA Student Fee Advisory Committee

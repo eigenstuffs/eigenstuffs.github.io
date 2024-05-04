@@ -13,7 +13,8 @@ At UCLA, I study Political Science with a minor in Statistics and Data Science. 
 I have been awarded the Keck Humanistic Inquiry, Rosalind W. Alcott, and Research Revealed scholarships.
 
 I wrote my honors thesis under the mentorship of Michael L. Ross, entitled "[The Influence of Political Ideology on Carbon Emissions.](https://github.com/eigenstuffs/thesis)" I ask whether liberal
-state legislatures are associated with lower emissions, and ask whether the effect is greater for renewable energy or energy efficiency outcomes. My results suggest immense implementation barriers
+state legislatures are associated with lower emissions, and leverage decomposition analysis to find
+whether the effect is greater for renewable energy or energy efficiency outcomes. My results suggest immense implementation barriers
 for renewable energy policy, even in states where political will is strong.
 
 Additionally, I am a Research Assistant for Cesi Cruz, Jose Gloria, and Paul Bahk, where I've conducted literature review and spatial data analyses. I also work at the UCLA Library as an IT Consultant,
