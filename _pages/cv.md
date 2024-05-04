@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.A. in Political Science,** University of California, Los Angeles, 2022 - 2024
+	* **Minor:** Statistics and Data Science
+	* Candidate for Departmental Highest Honors and College Honors
+	* **PhD Coursework:** Probability and statistics, regression, spatial data science, and causal inference
+	* **Honors Thesis:** The Influence of Political Ideology on Carbon Emissions
+		* **Advisor:** Michael L. Ross
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Jan. 2024 - Present:** Research Assistant
+	* University of California, Los Angeles (UCLA)
+    * Supervisors: Cesi Cruz, Jose Gloria, Paul Bahk
+    * Duties includes: Spatial data analysis, literature review, formal modeling
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Sept. 2023 - Present:** Vice Chair
+	* UCLA Student Fee Advisory Committee
+	* Advising the Chancellor on the distribution of nearly $50 million annually in Student Services Fee
+	* Representing UCLA at statewide Council on Student Fee conferences
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Sept. 2022 - June 2023:** Student Researcher
+  * Global Development Lab at UCLA
+  * Developed a conditional logic survey to securely connect undocumented immigrants with healthcare resources
+  * Conducted literature review on undocumented immigrant healthcare outcomes, access, technology access
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **R, Python**
+	* Machine learning (predictive regression and classification modeling)
+	* Spatial data science (spatial autocorrelation, spatial regression)
+	* Text analysis (text-as-data, sentiment analysis, topic modeling)
+	* Experimental design, data pre-processing, model diagnostics
+* **ArcGIS Pro**
+* **Excel**
+* **SQL**
+* **LaTeX**
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Exploring Social Problems with Quantitative Methods**
+	* High school workshop, *Splash at UCLA, UCLA,* 2024
