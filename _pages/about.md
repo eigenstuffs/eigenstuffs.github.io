@@ -7,14 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Keck Research Fellow at the University of California, Los Angeles (UCLA), interested in political economy and quantitative methods for causal inference.
+I recently graduated UCLA with Highest Honors in Political Science and a minor in Statistics and Data Science. I was formerly a Keck Research Fellow, a member of College Honors, and the Vice Chair for the 2023-2024 Student Fee Advisory Committee. My research interests are in quantitative methods (particularly causal inference with panel data) and the political economy of climate and development.
 
-At UCLA, I study Political Science with a minor in Statistics and Data Science. I will graduate this Spring with Departmental Highest Honors and College Honors. I have been awarded the Keck Humanistic Inquiry, Rosalind W. Alcott, and Research Revealed scholarships. Most recently, I am an awardee of the Stuart C. Waugh and Scott L. Waugh Endowed Scholarship and funding from The Green Initiative Fund at UCLA.
+My research experience includes working as a Research Assistant for Cesi Cruz, Paul Bahk, and Jose Gloria. My main responsibility was conducting spatial data analysis on gridded data in Sierra Leone, to estimate subnational inequality in the absence of official data. I also wrote my Honors thesis under the mentorship of Michael L. Ross, where I explored the political economy of climate policy in U.S. state legislatures, with close attention paid to the distributive conflict between fossil fuel interests and clean energy advocates.
 
-I wrote my honors thesis under the mentorship of Michael L. Ross, entitled "[The Influence of Political Ideology on Carbon Emissions.](https://github.com/eigenstuffs/thesis)" I ask whether liberal state legislatures are associated with lower emissions, and leverage decomposition analysis to find whether the effect is greater for renewable energy or energy efficiency outcomes. My results suggest immense implementation barriers for renewable energy policy, even in states where political will is strong.
+I will be applying to PhD programs this cycle, and am completing an independent project funded by The Green Initiative Fund and the UCLA Honors College in the meantime, relating to machine learning applications for synthetic control.
 
-Additionally, I am a Research Assistant for Cesi Cruz, Jose Gloria, and Paul Bahk, where I've conducted literature review and spatial data analyses. I also work at the UCLA Library as an IT Consultant, and serve as the Vice Chair of the UCLA Student Fee Advisory Committee, where we collectively advise the Chancellor on the distribution of nearly $50 million annually.
-
-My current project aims to improve synthetic control with machine learning. I am currently seeking opportunities in political economy and will apply for Fall 2025 entrance to PhD programs.
-
-Feel free to reach out via email or social media if you want to connect or collaborate!
+Feel free to reach out if you would like to chat or collaborate!

@@ -57,3 +57,24 @@ Teaching
 ======
 * **Exploring Social Problems with Quantitative Methods**
 	* High school workshop, *Splash at UCLA, UCLA,* 2024
+
+Awards
+======
+* **Departmental Highest Honors**
+	* *UCLA Department of Political Science, 2024*
+	* Desgination on the basis of grades and thesis quality (A+)
+* **Stuart C. Waugh and Scott L. Waugh Endowed Scholarship**
+  * *UCLA College Honors, 2024*
+  * Merit award on the basis of research experience and prompt response
+* **Main Seed Grant**
+  * *The Green Initiative Fund at UCLA, 2024*
+  * Grant for research proposal on using machine learning for synthetic control weights
+* **Keck Humanistic Inquiry Award**
+  * *UCLA Undergraduate Research Center, 2023*
+  * Year-long program to fund and mentor departmental honors thesis
+* **Rosalind W. Alcott Scholarship**
+  * *UCLA Honors College, 2023*
+  * Merit scholarship for outstanding political science and economics student
+* **Research Revealed**
+  * *UCLA Undergraduate Research Center, 2023*
+  * Research training program for transfers and new students
