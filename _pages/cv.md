@@ -20,9 +20,14 @@ Education
 
 Work experience
 ======
-* **Jan. 2024 - June 2024:** Research Assistant
+* **June 2024 - Present:** Research Assistant
+    * *Daniel N. Posner (UCLA Department of Political Science)*
+    * Cleaning, analyzing, and visualizing census data
+    * Reporting logistic regression and spatial autocorrelation results
+
+* **Jan. 2024 - Present:** Research Assistant
     * *Cesi Cruz, Jose Gloria, Paul Bahk (UCLA Department of Political Science)*
-    * Conducting spatial data analysis, literature review, formal modeling
+    * Working with spatial and panel data, conducting literature review
 
 * **Sept. 2023 - June 2024:** Vice Chair
 	* *UCLA Student Fee Advisory Committee*
