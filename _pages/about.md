@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Highest Honors Political Science graduate in Political Science. I will be applying to PhD programs this cycle for Fall '25 entry.
+I am a Highest Honors Political Science graduate from the University of California, Los Angeles. I will be applying to PhD programs this cycle for Fall '25 entry.
 
 My research interests are in political economy and causal inference. I am principally interested in applying spatial data to study how exposure to climate risk alters political behavior. My other interests estimators that loosen functional form assumptions, text mining, and the implementation of interpretable machine learning methods to causal inference.
 
