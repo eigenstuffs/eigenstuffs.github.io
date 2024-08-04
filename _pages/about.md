@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated UCLA with Highest Honors in Political Science and a minor in Statistics and Data Science. I was formerly a Keck Research Fellow, a member of College Honors, and the Vice Chair for the 2023-2024 Student Fee Advisory Committee. My research interests are in quantitative methods (particularly causal inference with panel data) and the political economy of climate and development.
+I am a Highest Honors Political Science graduate in Political Science. I will be applying to PhD programs this cycle for Fall '25 entry.
 
-My research experience includes working as a Research Assistant for Cesi Cruz, Paul Bahk, and Jose Gloria. My main responsibility was conducting spatial data analysis on gridded data in Sierra Leone, to estimate subnational inequality in the absence of official data. I also wrote my Honors thesis under the mentorship of Michael L. Ross, where I explored the political economy of climate policy in U.S. state legislatures, with close attention paid to the distributive conflict between fossil fuel interests and clean energy advocates.
+My research interests are in political economy and causal inference. I am principally interested in applying spatial data to study how exposure to climate risk alters political behavior. My other interests estimators that loosen functional form assumptions, text mining, and the implementation of interpretable machine learning methods to causal inference.
 
-I will be applying to PhD programs this cycle, and am completing an independent project funded by The Green Initiative Fund and the UCLA Honors College in the meantime, relating to machine learning applications for synthetic control.
+I currently work for Professors Cesi Cruz and Daniel N. Posner as a Research Assistant. My tasks are distributed between working with panel data, spatial data, and creating reproducable code. I wrote my honors thesis under the supervision of Professor Michael L. Ross, for which I earned a perfect grade and Departmental Highest Honors. I presented during Undergraduate Research Week twice and the UIRA Poster Day event. I was a Keck Research Fellow for the 2023-24 academic year and was formerly awarded funding from UCLA's Green Initiative Fund, College Honors, and Undergraduate Research Center.
 
-Feel free to reach out if you would like to chat or collaborate!
+Feel free to reach out if you would like to collaborate or chat!
